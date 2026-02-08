@@ -3,6 +3,12 @@ All notable changes to StudyTool will be documented in this file.
 
 The format is inspired by Keep a Changelog, and StudyTool adheres to semantic versioning where possible. Versions below `1.0.0` represent pre‑release development and may include breaking changes.
 
+## [v0.1.1] - 2026-02-08
+### Added
+- Footer implemented
+
+---
+
 ## [v0.1.0] - 2026-02-07
 ### Added
 - Initial internal build of StudyTool.
@@ -23,6 +29,7 @@ The format is inspired by Keep a Changelog, and StudyTool adheres to semantic ve
 
 ## [Unreleased]
 ### Planned
+- Add footer
 - Roadmap page.
 - Account system and cloud sync.
 - Study sessions and spaced repetition.

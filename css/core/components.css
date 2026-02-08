@@ -110,7 +110,8 @@
 footer {
     background: #0a0a0a;
     padding: 4rem 10% 2rem;
-    border-top: 1px solid var(--border-color)
+    border-top: 1px solid var(--border-color);
+    margin-top: 20px;
 }
 
 .footer-top {

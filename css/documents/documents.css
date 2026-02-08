@@ -16,7 +16,8 @@ body {
     background: var(--bg-dark);
     color: var(--text-primary);
     margin: 0;
-    padding: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
     line-height: 1.6;
 }
 
