@@ -4,7 +4,7 @@
   "trailingSlash": false,
 
   "routes": [
-    /* Core */
+
     {
       "src": "/about",
       "dest": "/html/core/about.html"
@@ -37,7 +37,7 @@
       "src": "/study",
       "dest": "/html/core/study.html"
     },
-    /* Legal */
+
     {
       "src": "/license",
       "dest": "/html/legal/license.html"
@@ -50,7 +50,7 @@
       "src": "/tos",
       "dest": "/html/legal/tos.html"
     },
-    /* Resources */
+
     {
       "src": "/changelog",
       "dest": "/html/resources/changelog.html"
