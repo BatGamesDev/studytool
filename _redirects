@@ -1,0 +1,19 @@
+/about  /html/core/about.html   200
+/deck   /html/core/deck.html    200
+/edit-card   /html/core/edit-card.html    200
+/edit-deck   /html/core/edit-deck.html    200
+/features   /html/core/features.html    200
+/flashcards   /html/core/flashcards.html    200
+/stats   /html/core/stats.html    200
+/study   /html/core/study.html    200
+
+/license   /html/legal/license.html   200
+/privacy   /html/legal/privacy.html   200
+/tos   /html/legal/tos.html   200
+
+/changelog   /html/resources/changelog.html   200
+/devdocument   /html/resources/devdocumentation.html   200
+/documentation   /html/resources/documentation.html   200
+/feedback   /html/resources/feedback.html   200
+/roadmap   /html/resources/roadmap.html   200
+/websites   /html/resources/websites.html   200
