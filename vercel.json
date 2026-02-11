@@ -1,0 +1,79 @@
+{
+  "version": 2,
+  "cleanUrls": true,
+  "trailingSlash": false,
+
+  "routes": [
+    /* Core */
+    {
+      "src": "/about",
+      "dest": "/html/core/about.html"
+    },
+    {
+      "src": "/deck",
+      "dest": "/html/core/deck.html"
+    },
+    {
+      "src": "/edit-card",
+      "dest": "/html/core/edit-card.html"
+    },
+    {
+      "src": "/edit-deck",
+      "dest": "/html/core/edit-deck.html"
+    },
+    {
+      "src": "/features",
+      "dest": "/html/core/features.html"
+    },
+    {
+      "src": "/flashcards",
+      "dest": "/html/core/flashcards.html"
+    },
+    {
+      "src": "/stats",
+      "dest": "/html/core/stats.html"
+    },
+    {
+      "src": "/study",
+      "dest": "/html/core/study.html"
+    },
+    /* Legal */
+    {
+      "src": "/license",
+      "dest": "/html/legal/license.html"
+    },
+    {
+      "src": "/privacy",
+      "dest": "/html/legal/privacy.html"
+    },
+    {
+      "src": "/tos",
+      "dest": "/html/legal/tos.html"
+    },
+    /* Resources */
+    {
+      "src": "/changelog",
+      "dest": "/html/resources/changelog.html"
+    },
+    {
+      "src": "/devdocument",
+      "dest": "/html/resources/devdocumentation.html"
+    },
+    {
+      "src": "/documentation",
+      "dest": "/html/resources/documentation.html"
+    },
+    {
+      "src": "/feedback",
+      "dest": "/html/resources/feedback.html"
+    },
+    {
+      "src": "/roadmap",
+      "dest": "/html/resources/roadmap.html"
+    },
+    {
+      "src": "/websites",
+      "dest": "/html/resources/websites.html"
+    }
+  ]
+}
