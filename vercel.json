@@ -36,7 +36,7 @@
     },
 
     {
-      "src": "/license",
+      "src": "/mit-license",
       "dest": "/html/legal/license.html"
     },
     {
