@@ -6,6 +6,7 @@ The format is inspired by Keep a Changelog, and StudyTool adheres to semantic ve
 ## [v0.1.1] - 2026-02-08
 ### Added
 - Footer implemented
+- Roadmap implemented
 
 ---
 
@@ -30,10 +31,11 @@ The format is inspired by Keep a Changelog, and StudyTool adheres to semantic ve
 ## [Unreleased]
 ### Planned
 - Add footer
-- Roadmap page.
-- Account system and cloud sync.
-- Study sessions and spaced repetition.
-- Improved mobile layout.
+- Quiz page
+- Roadmap page
+- Account system and cloud sync
+- Study sessions and spaced repetition
+- Improved mobile layout
 - The following pages:
  - About
  - Deck
@@ -43,3 +45,4 @@ The format is inspired by Keep a Changelog, and StudyTool adheres to semantic ve
  - Flashcards
  - Stats
  - Study
+ - Quiz

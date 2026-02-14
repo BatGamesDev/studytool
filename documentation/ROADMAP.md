@@ -38,6 +38,7 @@ Implement the following pages with full component documentation and modular incl
 - Flashcards
 - Stats
 - Study
+- Quiz
 
 ---
 

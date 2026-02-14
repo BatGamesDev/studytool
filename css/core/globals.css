@@ -190,6 +190,61 @@ h1 {
     color: var(--text-secondary);
 }
 
+/* Features */
+.all-features {
+    padding: 10rem;
+}
+
+.section-header {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.section-header h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.section-header p {
+    color: var(--text-secondary);
+}
+
+.feature-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1.5rem;
+}
+
+.feature-item {
+    background: var(--card-bg);
+    padding: 1.2rem;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+    font-weight: 500;
+    transition: transform 0.2s, border-color 0.2s;
+}
+
+.feature-item:hover {
+    transform: translateY(-3px);
+    border-color: var(--primary-color);
+}
+
+.feature-item i {
+    color: var(--primary-color);
+}
+
+.tag.wip {
+    background: #e67e22;
+    color: white;
+    font-size: 0.6rem;
+    padding: 2px 6px;
+    border-radius: 4px;
+    margin-left: auto;
+}
+
 /* Animations */
 .fade-in {
     opacity: 0;
